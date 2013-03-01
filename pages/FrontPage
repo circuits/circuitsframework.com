@@ -8,7 +8,7 @@ circuits is a **Lightweight** **Event** driven and **Asynchronous**
 with a strong **Component** Architecture.
 
 <<div>>
-== Examples ==
+----
 
 <<div float="left">>
 **Echo Server:**
