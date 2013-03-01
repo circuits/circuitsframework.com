@@ -1,3 +1,7 @@
+<<div id="newsflash">>
+<<include "TwitterWidget.html" parse=False raw=True>>
+<</div>>
+
 = circuits =
 
 Lightweight Event driven and Asynchronous Application Framework
