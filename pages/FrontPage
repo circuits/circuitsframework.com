@@ -7,6 +7,10 @@ circuits is a **Lightweight** **Event** driven and **Asynchronous**
 [[http://www.python.org|Python Programming Language]]
 with a strong **Component** Architecture.
 
+<<code lang="sh">>
+$ pip install circuits
+<</code>>
+
 <<div>>
 ----
 
