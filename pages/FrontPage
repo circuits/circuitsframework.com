@@ -11,9 +11,29 @@ circuits is a **Lightweight** **Event** driven and **Asynchronous**
 [[http://www.python.org|Python Programming Language]]
 with a strong **Component** Architecture.
 
+circuits also includes a lightweight, high performance and scalable
+HTTP/WSGI compliant web server as well as various I/O and Networking
+components.
+
+To take full advantage of circuits and its architecture, circuits
+encourages you to design your application in terms of loosely coupled
+components. Circuits has a very powerful message passing system that
+enables components to interact with each other via events. Applications
+written this way tend to be more maintainable, easier to develop and
+scale to complex systems.
+
+circuits' **Loosely Coupled** **Component Architecture** allows for a
+high level of **Reuse** and **Scalability**. Simpler components can be
+combined together to form Complex Components and provide higher level
+functionality and abstraction. Much of the circuits component library is
+designed and built this way.
+
 <<code lang="sh">>
 $ pip install circuits
 <</code>>
+
+circuits is licensed under the
+[[http://www.opensource.org/licenses/mit-license.php|MIT License]]
 
 <<div>>
 ----
