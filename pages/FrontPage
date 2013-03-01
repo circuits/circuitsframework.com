@@ -12,7 +12,8 @@ circuits is a **Lightweight** **Event** driven and **Asynchronous**
 with a strong **Component** Architecture.
 
 circuits also includes a lightweight, high performance and scalable
-HTTP/WSGI compliant web server as well as various I/O and Networking
+HTTP/WSGI compliant web server and framework called
+[[http://circuitsweb.com|circuits.web]] as well as various I/O and Networking
 components.
 
 To take full advantage of circuits and its architecture, circuits
