@@ -6,3 +6,29 @@ circuits is a **Lightweight** **Event** driven and **Asynchronous**
 **Application Framework** for the
 [[http://www.python.org|Python Programming Language]]
 with a strong **Component** Architecture.
+
+== Examples ==
+
+**Echo Server:**
+<<code lang="python">>
+from circuits.net.sockets import TCPServer
+
+class EchoServer(TCPServer):
+
+    def read(self, sock, data):
+        return data
+
+(EchoServer(8000)).run()
+<</code>>
+
+**Web Server:**
+<<code lang="python">>
+from circuits.web import Server, Controller, Logger
+
+class Root(Controller):
+
+    def index(self):
+        return "Hello World!"
+
+(Server(("0.0.0.0", 8000)) + Root() + Logger()).run()
+<</code>>
