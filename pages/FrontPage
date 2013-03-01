@@ -10,7 +10,7 @@ with a strong **Component** Architecture.
 <<div>>
 == Examples ==
 
-<<div>>
+<<div float="left">>
 **Echo Server:**
 <<code lang="python" linenos=True>>
 from circuits.net.sockets import TCPServer
