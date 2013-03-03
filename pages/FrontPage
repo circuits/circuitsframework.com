@@ -1,5 +1,4 @@
 <<div id="newsflash">>
-<<include "followus.html" parse=False raw=True>>
 <<include "TwitterWidget.html" parse=False raw=True>>
 <</div>>
 
