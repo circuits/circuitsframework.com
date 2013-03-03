@@ -37,11 +37,14 @@ circuits is licensed under the
 [[http://www.opensource.org/licenses/mit-license.php|MIT License]]
 
 <<include "ohloh.html" parse=False raw=True>>
+<<include "iuseit.html" parse=False raw=True>>
 
-<<div>>
+Please [[Donate]] to the project if you can!
+
 ----
 
-<<div float="left">>
+<<div>>
+<<div float=left>>
 <<code lang=python linenos=True title=Echo Server>>
 from circuits.net.sockets import TCPServer
 
@@ -54,7 +57,7 @@ class EchoServer(TCPServer):
 <</code>>
 <</div>>
 
-<<div float="right">>
+<<div float=right>>
 <<code lang=python linenos=True title=Web Server>>
 from circuits.web import Server, Controller, Logger
 
