@@ -37,7 +37,6 @@ circuits is licensed under the
 [[http://www.opensource.org/licenses/mit-license.php|MIT License]]
 
 <<include "ohloh.html" parse=False raw=True>>
-<<include "iuseit.html" parse=False raw=True>>
 
 Please [[Donate]] to the project if you can!
 
