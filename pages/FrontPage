@@ -54,6 +54,8 @@ class EchoServer(TCPServer):
 
 (EchoServer(8000)).run()
 <</code>>
+* [[EchoServer.png|Component Graph]]
+* [[echoserver.py|Source]]
 <</div>>
 
 <<div float=right>>
@@ -67,5 +69,7 @@ class Root(Controller):
 
 (Server(("0.0.0.0", 8000)) + Root() + Logger()).run()
 <</code>>
+* [[Server.png|Component Graph]]
+* [[webapp.py|Source]]
 <</div>>
 <</div>>
