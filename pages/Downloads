@@ -2,3 +2,19 @@
 
 * [[https://bitbucket.org/circuits/circuits/downloads|Bitbucket Downloads]] (*Use the **Tags** tab*)
 * [[http://pypi.python.org/pypi/circuits|PyPi Downloads]]
+
+== Source Code ==
+
+The source code is available on [[http://bitbucket.org|BitBucket]]
+
+**Stable**: http://bitbucket.org/circuits/circuits
+
+<<code lang=sh>>
+$ hg clone http://bitbucket.org/circuits/circuits
+<</code>>
+
+**Development**: http://bitbucket.org/circuits/circuits-dev
+
+<<code lang=sh>>
+$ hg clone http://bitbucket.org/circuits/circuits-dev
+<</code>>
