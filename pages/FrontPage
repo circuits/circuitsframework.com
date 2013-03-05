@@ -45,7 +45,10 @@ Please [[Donate]] to the project if you can!
 <<div>>
 <<div float=left>>
 <<code lang=python linenos=True title=Echo Server>>
+#!/usr/bin/env python
+
 from circuits.net.sockets import TCPServer
+
 
 class EchoServer(TCPServer):
 
@@ -55,12 +58,15 @@ class EchoServer(TCPServer):
 (EchoServer(8000)).run()
 <</code>>
 * [[EchoServer.png|Component Graph]]
-* [[echoserver.py|Source]]
+* [[+download/echoserver.py|Source]]
 <</div>>
 
 <<div float=right>>
 <<code lang=python linenos=True title=Web Server>>
+#!/usr/bin/env python
+
 from circuits.web import Server, Controller, Logger
+
 
 class Root(Controller):
 
@@ -70,6 +76,6 @@ class Root(Controller):
 (Server(("0.0.0.0", 8000)) + Root() + Logger()).run()
 <</code>>
 * [[Server.png|Component Graph]]
-* [[webapp.py|Source]]
+* [[+download/webapp.py|Source]]
 <</div>>
 <</div>>
