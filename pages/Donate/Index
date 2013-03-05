@@ -1,0 +1,7 @@
+= Donations =
+
+If you happen to use circuits in your application in any Open Source or
+Commercial software or service and feel particularly chartiable, then please
+donate the the project and keep us going!
+
+<<include "paypal.html" parse=False raw=True>>
