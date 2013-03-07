@@ -1,9 +1,60 @@
 = Community =
 
-* [[http://groups.google.com/group/circuits-users|circuits-users Mailing LIst]]
+== User Community ==
+
+* [[http://groups.google.com/group/circuits-users|circuits-users Mailing List]]
 * [[http://freenode.net|#circuits on the FreeNode IRC Network]]
+* [[http://webchat.freenode.net/?randomnick=1&channels=circuits&uio=d4|Chat Now!]]
+* [[http://irclogs.shortcircuit.net.au/%23circuits/|IRC Logs for #circuits]]
 
-[[http://webchat.freenode.net/?randomnick=1&channels=circuits&uio=d4|Chat Now!]]
+== Developer Community ==
 
-After the IRC Logs?
-[[http://irclogs.shortcircuit.net.au/%23circuits/|IRC Logs for #circuits]]
+* [[http://groups.google.com/group/circuits-dev|circuits-dev Mailing List]]
+* [[http://freenode.net|#circuits-dev on the FreeNode IRC Network]]
+* [[http://webchat.freenode.net/?randomnick=1&channels=circuits-dev&uio=d4|Chat Now!]]
+* [[http://irclogs.shortcircuit.net.au/%23circuits-dev/|IRC Logs for #circuits-dev]]
+
+== Projects using circuits ==
+
+=== Applications written in circuits ===
+
+* [[http://sahriswiki.org|SahrisWiki]]
+  -- a Wiki / CMS / Blogging Engine.
+* [[http://bitbucket.org/prologic/kdb|kdb]]
+  -- a pluggable IRC Bot Framework.
+
+=== Applications integrating circuits ===
+
+* [[http://realxtend.org|realXtend]]
+  -- Next generation virtual worlds viewer; Naali, for Python components.
+  Worked on by Toni Alatalo and Petri Aura at
+  [[http://www.playsign.net|Playsign]] in collaboration with other
+  realXtend developers.
+* [[http://www.pwc.com|PriceWaterHouseCoopers]]
+  -- [[http://www.tams.com.au|TAMS]] Report Generator written by James Mills
+  and Michael Anton.
+* [[http://mangahelpers.com|Mangahelpers]]
+  -- Profiler for checking our webpages generation times, SQL and cache queries
+  times, project page on https://launchpad.net/website-profiler
+
+=== Other Uses of circuits ===
+
+* [[http://media.mit.edu|MIT Media Labs]]
+  -- Uses circuits for several internal prototypes
+
+== 3rd Party Components ==
+
+Here is a list of 3rd-party components that add to the available library of
+components for circuits.
+
+* [[https://pypi.python.org/pypi/circuits-bricks/|circuits-bricks]]
+  -- General purpose components extending the circuits framework.
+* [[https://pypi.python.org/pypi/circuits-minpor/|circuits-minpor]]
+  -- A minimal portal based on the circuits component library.
+* [[https://pypi.python.org/pypi/cocy/|cocy]]
+  -- A components library for UPnP.
+
+----
+If you would like to add to any of these lists, please
+[[https://bitbucket.org/circuits/circuitsframework.com/fork|Fork] the website
+and submit a [[https://bitbucket.org/circuits/circuitsframework.com/pull-request/new|Pull Request]].
