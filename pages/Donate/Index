@@ -6,4 +6,4 @@ donate the the project and keep us going!
 
 <<include "paypal.html" parse=False raw=True>>
 
-<<include "bitcoin.html parse=False raw=True>>
+<<include "bitcoin.html" parse=False raw=True>>
