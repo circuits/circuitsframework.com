@@ -38,7 +38,7 @@ circuits is licensed under the
 
 <<include "ohloh.html" parse=False raw=True>>
 
-[[https://jenkins.shiningpanda-ci.com/prologic/job/circuits|{{https://jenkins.shiningpanda-ci.com/circuits/job/circuits/badge/icon|Build Status}}]]
+[[https://jenkins.shiningpanda-ci.com/prologic/job/circuits|{{https://jenkins.shiningpanda-ci.com/prologic/job/circuits/badge/icon|Build Status}}]]
 
 Please [[Donate]] to the project if you can!
 
