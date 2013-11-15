@@ -20,8 +20,14 @@
 
 * [[http://sahriswiki.org|SahrisWiki]]
   -- a Wiki / CMS / Blogging Engine.
-* [[http://bitbucket.org/prologic/kdb|kdb]]
+* [[https://bitbucket.org/prologic/kdb|kdb]]
   -- a pluggable IRC Bot Framework.
+* [[https://bitbucket.org/prologic/irclogger|irclogger]]
+  -- An IRC Bot that logs IRC Channels.
+* [[https://bitbucket.org/prologic/ircnotifier|ircnotifier]]
+  -- An IRC Bot with an integrated Web API that listens for Bitbucket/Github Repository updates and posted them to an IRC Channel.
+* [[http://ccav.terranova.org.au/|Climate Chnage and Adaptation Visualiation]]
+  -- Climate Chnage and Adaptation Visualiation Tool for the [[https://terranova.org.au/|TerraNova]] Projec.t
 
 === Applications integrating circuits ===
 
