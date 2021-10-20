@@ -1,14 +1,14 @@
 = Downloads =
 
-* [[https://bitbucket.org/circuits/circuits/downloads|Bitbucket Downloads]] (//Use the **Tags** tab//)
-* [[http://pypi.python.org/pypi/circuits|PyPi Downloads]]
+* [[https://github.com/circuits/circuits/releases|GitHub Releases]]
+* [[https://pypi.python.org/pypi/circuits|PyPi Downloads]]
 
 == Source Code ==
 
-The source code is available on [[http://bitbucket.org|BitBucket]]
+The source code is available on [[https://github.com/circuits/circuits/|GitHub]]
 
-http://bitbucket.org/circuits/circuits
+https://github.com/circuits/circuits
 
 <<code lang=sh>>
-$ hg clone http://bitbucket.org/circuits/circuits
+$ git clone https://github.com/circuits/circuits
 <</code>>

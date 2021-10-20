@@ -3,15 +3,15 @@
 == User Community ==
 
 * [[http://groups.google.com/group/circuits-users|circuits-users Mailing List]]
-* [[http://freenode.net|#circuits on the FreeNode IRC Network]]
-* [[http://webchat.freenode.net/?randomnick=1&channels=circuits&uio=d4|Chat Now!]]
+* [[https://libera.chat|#circuits on the FreeNode IRC Network]]
+* [[https://web.libera.chat/#circuits|Chat Now!]]
 * [[http://irclogs.shortcircuit.net.au/%23circuits/|IRC Logs for #circuits]]
 
 == Developer Community ==
 
 * [[http://groups.google.com/group/circuits-dev|circuits-dev Mailing List]]
-* [[http://freenode.net|#circuits on the FreeNode IRC Network]]
-* [[http://webchat.freenode.net/?randomnick=1&channels=circuits&uio=d4|Chat Now!]]
+* [[https://libera.chat|#circuits on the FreeNode IRC Network]]
+* [[https://web.libera.chat/#circuits|Chat Now!]]
 * [[http://irclogs.shortcircuit.net.au/%23circuits/|IRC Logs for #circuits]]
 
 == Projects using circuits ==
@@ -20,11 +20,11 @@
 
 * [[http://sahriswiki.org|SahrisWiki]]
   -- a Wiki / CMS / Blogging Engine.
-* [[https://bitbucket.org/prologic/kdb|kdb]]
+* [[https://github.com/circuits/kdb|kdb]]
   -- a pluggable IRC Bot Framework.
-* [[https://bitbucket.org/prologic/irclogger|irclogger]]
+* [[https://github.com/circuits/irclogger|irclogger]]
   -- An IRC Bot that logs IRC Channels.
-* [[https://bitbucket.org/prologic/ircnotifier|ircnotifier]]
+* [[https://github.com/circuits/ircnotifier|ircnotifier]]
   -- An IRC Bot with an integrated Web API that listens for Bitbucket/Github Repository updates and posted them to an IRC Channel.
 * [[http://ccav.terranova.org.au/|Climate Change and Adaptation Visualization]]
   -- Climate Change and Adaptation Visualization Tool for the [[https://terranova.org.au/|TerraNova]] Project.t
@@ -62,5 +62,5 @@ components for circuits.
 
 ----
 If you would like to add to any of these lists, please
-[[https://bitbucket.org/circuits/circuitsframework.com/fork|Fork]] the website
-and submit a [[https://bitbucket.org/circuits/circuitsframework.com/pull-request/new|Pull Request]].
+[[https://github.com/circuits/circuitsframework.com/fork|Fork]] the website
+and submit a [[https://github.com/circuits/circuitsframework.com/pulls/new|Pull Request]].
